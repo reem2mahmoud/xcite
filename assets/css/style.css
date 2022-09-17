@@ -1,0 +1,110 @@
+*{
+    margin : 0 ;
+    padding :0 ;
+    box-sizing: 0;
+    font-family: "Trirong", serif;
+}
+main{
+    min-height: 700px ;
+    
+
+}
+/* *************************Header************************** */
+ .first-header a .cite-logo{
+    width: 40% ;
+    height: 40%;
+ }  
+  .text-small {
+    font-size: 90%;
+  }
+  .shopping-cart{
+    color:#68C2E6
+  }
+/* *************************Slider************************** */
+.carousel-item{
+  height:400px ;
+  width:100% ;
+
+}
+.carousel-item img{
+  height: 100%;
+}
+/***************************Marketing *************************/
+.marketing .marketing_block img{
+  border-radius: 50%;
+  width : 55% ;
+  height: 45%;
+}
+.marketing p a{
+  background-color: #68C2E6;
+  color: white;
+  border: 0;
+}
+/* *************************products************************** */
+.products{
+  min-height : 300px;
+  width:100% ;
+} 
+
+.products #content .card img{
+  height:50% ;
+}
+/**********************************************footer ****************************************/
+
+.about_us .social a i{
+  font-size:2vw ;
+  color: black;
+}
+ footer .details1 .sign_newspapers form input[type="text"],
+ footer .details1 .sign_newspapers form input[type="email"]{
+     margin-top: 8px;
+     background-color :#FAFAFA ;
+     border: none;
+     width:100% ;
+     min-height: 40px;
+     border-bottom: 1px solid #d9d9d9;
+     padding : 10px ;
+     font-size: 18px;
+     outline: none ;
+     color :#434343;
+     font-style: italic;
+ }
+ footer .details1 .sign_newspapers form input[type="submit"]{
+    float: right;
+    width:40% ;
+    min-height: 20px;
+    background-color: #12bbd5;
+    font-size: 20px;
+    outline: none ;
+    color :#FFFFFF;
+    font-weight: 300;
+    border: none;
+    padding : 5px 10px;
+    
+ }
+ footer .details2{
+     min-height : 50px ;
+     width: 100%; 
+     background-color: #202020;
+    
+ }
+ footer .details2 h3 {
+  
+      font-size :1.3vw ;
+      color :#FFFFFF;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
